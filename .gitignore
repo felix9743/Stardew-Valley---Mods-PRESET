@@ -21,6 +21,10 @@
 !.gitignore
 !.gitsubmodules
 
+# Mods à ne pas commit:
+Mods/SkipIntro/*
+
+# Fichier de base du jeu - GOG version 1.6.8.24119:
 api-ms-win-core-console-l1-1-0.dll
 api-ms-win-core-console-l1-2-0.dll
 api-ms-win-core-datetime-l1-1-0.dll
