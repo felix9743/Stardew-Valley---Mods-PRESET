@@ -31,11 +31,18 @@ Optionnel (à installer) :
 
 
 ## Documentation personnalisée :
+<details>
+<summary><b>Préambule</b></summary>
+<p><u>TILED n'est pas un éditeur de carte dédiée au jeu Stardew Valley !</u></p>
+<p>La documentation ci-dessous concernant <b>l'éditeur de map TILED</b> a été rédiger de <b>manière orienté pour le jeu Stardew Valley.</b> Cependant, certaine des informations qui s'y trouve peuvent éventuellement s'appliquer à d'autre cas d'usage.</p>
+<p>Si de la documentation pour <b>l'éditeur de map TILED</b> vous intéresse, nous vous recommandons d'aller directement voir la <a href="https://doc.mapeditor.org/fr/stable/">documentation officiel.</a></p>
+</details>
+
 ### MOD :
 - [**Fonctionnement du content.json**](DOCS/MOD/content_JSON.md)
 - [**Fonctionnement du manifest.json**](DOCS/MOD/manifest_JSON.md)
 
 ### TILED :
 #### Calques :
-- [**Comment fonctionne les noms des calques**](DOCS/TILED/LAYER/layer_name.md)
+- [**Comment fonctionne le nom des calques**](DOCS/TILED/LAYER/layer_name.md)
 - [**Quels sont les types de calque**](DOCS/TILED/LAYER/layer_type.md)
