@@ -36,4 +36,6 @@ Optionnel (à installer) :
 - [**Fonctionnement du manifest.json**](DOCS/MOD/manifest_JSON.md)
 
 ### TILED :
-- [**Fonctionnement des noms des calques**](DOCS/TILED/layer_name.md)
+#### Calques :
+- [**Comment fonctionne les noms des calques**](DOCS/TILED/LAYER/layer_name.md)
+- [**Quels sont les types de calque**](DOCS/TILED/LAYER/layer_type.md)
